@@ -1,11 +1,11 @@
 <?
 	##################################################
-	# Template Motoru             					 # 
-	# tcf.engine.php             					 # 
-	# Mesut Cemil ASLAN / 2015 - 2023 / 			 # 
-	# Versiyon Adı : Sektir 						 #
-	# Versiyon Kodu : 2.0							 #
-	# youtube.com/thecodefather						 #
+	# Template Motoru             			 # 
+	# tcf.engine.php             			 # 
+	# Mesut Cemil ASLAN / 2015 - 2023 / 		 # 
+	# Versiyon Adı : Sektir 			 #
+	# Versiyon Kodu : 2.0				 #
+	# youtube.com/thecodefather			 #
 	##################################################
 
     class Template
